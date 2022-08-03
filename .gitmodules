@@ -1,0 +1,6 @@
+[submodule "red-store"]
+	path = red-store
+	url = https://github.com/DmitriKulkov/red-store.git
+[submodule "back-store"]
+	path = back-store
+	url = https://github.com/DmitriKulkov/back-store.git
